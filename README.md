@@ -3,6 +3,8 @@
 Help is at
 https://jekyllrb.com/docs/step-by-step/01-setup/
 
+jekyll serve --livereload
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/primod/alphajohnny.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

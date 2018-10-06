@@ -12,3 +12,5 @@ google_analytics: [Your Google Analytics tracking ID]
 permalink: :title/
 sass:
   sass_dir: css
+
+color: green
