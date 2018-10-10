@@ -2,7 +2,7 @@
 title: Roadmap for AlphaJohnny
 layout: simple
 ---
-# Roadmap of website
+# Roadmap
 
 ## v0.1
 - [x] Choice of platform, hosting, tech stack - Jekyll, Github, JAM
